@@ -7,4 +7,4 @@ Black Lives Matter is not just three words. It is not an oppurtunity for y'all t
 
 Need help starting a union? try contacting https://techworkerscoalition.org/ or better yet make an open source project to simplify Unionizing in all sectors. And then use it to unionize....
 
-BLACK LIVES MATTER
+Black Lives Matter
